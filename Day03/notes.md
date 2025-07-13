@@ -1,0 +1,2 @@
+#7/12/25
+First day I actually sat down and studied for hours. Finished the while and for loop section, I definitely need to review these more. I worked with types and learned about instances and methods. Got stuck on the first few exercises but eventually got the hang of it and completed the next one on my first try. Although the code was sloppy, It felt good to be able to understand and use what I'm learning. Finished the day off learning about initialization and functions. I will finish the function exercise tomorrow. Overall, feeling decent about everything. 
